@@ -1,0 +1,14 @@
+{
+  "name": "app_express",
+  "version": "1.0.0",
+  "description": "bono",
+  "main": "app.js",
+  "scripts": {
+    "test": "st"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

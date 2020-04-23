@@ -1,0 +1,14 @@
+{
+  "name": "express_static_files",
+  "version": "1.0.0",
+  "description": "boni",
+  "main": "index.js",
+  "scripts": {
+    "test": "st"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
